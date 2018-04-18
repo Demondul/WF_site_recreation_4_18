@@ -1,0 +1,76 @@
+/*CSS reset settings here*/
+* {
+    margin: 0px;
+    padding: 0px;
+}
+body{
+	color:blue;
+}
+
+h3{
+	color:black;
+}
+#wrapper{
+	background-color:white;
+}
+
+#navigation-left{
+	color:blue;
+	background-color:gainsboro;
+	display: inline-block;
+	text-align:left;
+}
+
+#center{
+	color:blue;
+	background-color:gray;
+}
+
+#navigation-right{
+	color:blue;
+	background-color:gainsboro;
+	display:inline-block;
+	text-align:left;	
+}
+
+.section2{
+
+}
+
+.section3{
+
+}
+
+.section1{
+
+}
+
+.header{
+	background-color:gainsboro;
+	display: inline-grid;
+	color:blue;
+}
+
+.words{
+	color:blue;
+}
+
+table{
+	border-collapse: collapse;
+	border: 1px white;
+}
+
+th, td{
+	border-bottom: 1px solid #ddd;
+	margin:3px;
+	width: 20px;
+}
+
+.minibox{
+	font-size: 60%;
+	background-color:white;
+	text-align:center;
+	padding: 2px;
+	margin:5px;
+	display: inline-block;
+}
