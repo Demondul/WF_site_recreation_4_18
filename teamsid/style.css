@@ -1,0 +1,142 @@
+.header{
+	display: block;
+	height: 30px
+}
+.toplink{
+	text-decoration: none;
+	font-family: "arial", sans-serif;
+	font-weight: 600;
+	display: inline-block
+}
+.home{
+	position: absolute;
+	top: 0px;
+	left: 200px;
+	display: inline-block;
+	font-size: 20px;
+	margin: 10px;
+
+}
+.moments{
+		position: absolute;
+	top: 0px;
+	left: 280px;
+	display: inline-block;
+	margin:10px;
+	font-size: 20px;
+}
+.search{
+	position: absolute;
+	top: 0px;
+	left: 900px;
+	display: inline-block;
+	margin:10px;
+	font-size: 20px;
+	font-family: "arial", sans-serif;
+
+}
+.background{
+	background-image: url("nightsky.jpg");
+	background-size: 1500px 500px;
+	width:1500px;
+	height: 500px;
+}
+#elon{
+	background-image: url("spicyelon.jpg");
+	position: absolute;
+	width:300px;
+	background-size: 300px 200px;
+	height: 200px;
+	top: 450px;
+	left:200px;
+}
+.bar{
+	background-color: white;
+	height: 50px;
+	width:1500px;
+}
+h1{
+	font-size:20px;
+	font-family: "arial", sans-serif;
+}
+p{
+	font-family: "arial", sans-serif;
+}
+.tweets{
+	position: absolute;
+	left:600px;
+	height: 50px;
+	width:100px;
+	display: inline-block;
+}
+.following{
+	position: absolute;
+	left:700px;
+	height: 50px;
+	width:100px;
+	display: inline-block;
+	
+}
+.followers{
+	position: absolute;
+	left:800px;
+	height: 50px;
+	width:100px;
+	display: inline-block;
+}
+.likes{
+	position: absolute;
+	left:900px;
+	height: 50px;
+	width:100px;
+	display: inline-block;	
+}
+
+.profile{
+	position: absolute;
+	left:200px;
+	top: 650px;
+	height: 50px;
+	width:300px;
+	display: inline-block;
+}
+
+.photos{
+	position: absolute;
+	background-image: url("elonmsk.jpg");
+	height: 200px;
+	width: 300px;
+	background-size: 300px 200px;
+	top: 760px;
+	left: 200px;
+}
+
+.bar2{
+	background-color: white;
+	height: 50px;
+	width:1500px;
+}
+
+.tweets2{
+	position: absolute;
+	left:600px;
+	height: 50px;
+	width:100px;
+	display: inline-block;
+}
+
+.replies{
+	position: absolute;
+	left:750px;
+	height: 50px;
+	width:200px;
+	display: inline-block;
+}
+
+.media {
+	position: absolute;
+	left:1000px;
+	height: 50px;
+	width:100px;
+	display: inline-block;
+}
